@@ -302,6 +302,15 @@
     max-width: 1020px;
     padding: 16px 24px 0;
 }
+
+.container2 {
+    margin: 0 auto;
+    max-width: 1020px;
+    padding: 16px 24px 0;
+    margin-top: 10px;
+    
+}
+
 .block1 {
     background-color: #c8202000;
     border: none;
@@ -309,6 +318,15 @@
     margin-bottom: 0;
     cursor: default;
 
+}
+
+.block3 {
+    background-color: #c8202000;
+    border: none;
+    height: 208px;
+    margin-bottom: 0;
+    background-color: white;
+    cursor: default;
 }
 
 .text {
@@ -372,6 +390,7 @@ div#id {
     width: 35%;
     height: max-content;
     overflow: auto;
+
 }
 .content {
     
@@ -526,3 +545,4 @@ div#id {
     padding-left: 50px;
     width: 70%;
 }
+
